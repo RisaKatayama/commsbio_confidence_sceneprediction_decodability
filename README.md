@@ -10,7 +10,7 @@ Data files and codes related to the paper: "Confidence modulates the decodabilit
  * /Decoding_results/Xth_decoding_period_result.mat:  
   The time-series decoding results for the X-th decoding period.  
   We constructed the decoders of the scene prediction and the subject’s reported confidence level at nine different time points, the 0th to the 8th decoding periods: the decoders at the t-th period used four consecutive scans starting from t s after the onset of the delay period. For details, please see the Method section in the main manuscript.  
-  Each field of the structure corresponds to each decoding condition, [Nsbj x Nroi]. Each column corresponds to the decoding results within each ROI: SPL, SMG, PMd and aPFC, respectively from the left column.
+  Each field of the structure corresponds to each decoding condition, [Nsbj x Nroi]. Each column corresponds to the decoding results within each ROI: SPL, IPL, PMd and aPFC, respectively from the left column.
   
  * /activate_sceneprediction_26sbj.nii:  
  The result of a univariate general linear model analysis during the prediction of the upcoming scene (first 4 s of the delay period) (see Figure 3a and Methods).  
