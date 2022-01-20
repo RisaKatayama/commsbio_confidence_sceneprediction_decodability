@@ -1,4 +1,4 @@
-#Each result file is orgainzed as follows:#
+# Each result file is orgainzed as follows:
   - *scenepred* : decoding accuracies of the subject's predicted scene (scene prediction)
   - *sceneconf* : decoding accuracies of the subject's reported confidence level (scene confidence)
   - *permutation_scenepred* : null distribution of the scene prediction decoding accuracies using the permutation test
