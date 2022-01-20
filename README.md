@@ -1,4 +1,4 @@
-Data files and codes related to the paper: "Confidence modulates the decodability of scene prediction during partially-observable maze exploration" by Katayama, Yoshida and Ishii, and codes for the computational model of subjects’ exploration behavior.
+Data files related to the paper: "Confidence modulates the decodability of scene prediction during partially-observable maze exploration" by Katayama, Yoshida and Ishii, and codes for the computational model of subjects’ exploration behavior.
 
 ## The "Data" folder is organized as follows:  
  * /Behavior/subX_sesY.mat:  
