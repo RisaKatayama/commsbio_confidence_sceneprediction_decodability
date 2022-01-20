@@ -1,0 +1,15 @@
+#Each result file is orgainzed as follows:#
+  - *scenepred* : decoding accuracies of the subject's predicted scene (scene prediction)
+  - *sceneconf* : decoding accuracies of the subject's reported confidence level (scene confidence)
+  - *permutation_scenepred* : null distribution of the scene prediction decoding accuracies using the permutation test
+  - *permutation_sceneconf* : null distribution of the scene confidence decoding accuracies using the permutation test
+  - *scenepred_corr* : decoding accuracies of the scene prediction in the correct trials only
+  - *scenepred_incr* : decoding accuracies of the scene prediction in the incorrect trials only
+  - *scenepred_sceneH* : decoding accuracies of the scene prediction in the trials when the subjects reported high scene confidence (reported confidence level 3 or 4)
+  - *scenepred_sceneL* : decoding accuracies of the scene prediction in the trials when the subjects reported low scene confidence (reported confidence level 1 or 2)
+  - *scenepred_sceneHst* : decoding accuracies of the scene prediction in the trials when the subjects reported highest scene confidence (reported confidence level 4)
+  - *scenepred_sceneMdr* : decoding accuracies of the scene prediction in the trials when the subjects reported moderate scene confidence (reported confidence level 2 or 3)
+  - *scenepred_sceneLst* : decoding accuracies of the scene prediction in the trials when the subjects reported lowest scene confidence (reported confidence level 1)
+  - *stateconf* : decoding accuracies of the state confidence estimated by the subjects' behavioral model (see also Supplementary Methods)
+  - *scenepred_stateH* : decoding accuracies of the scene prediction in the trials when the estimated scene confidence was high
+  - *scenepred_stateL* : decoding accuracies of the scene prediction in the trials when the estimated scene confidence was low
