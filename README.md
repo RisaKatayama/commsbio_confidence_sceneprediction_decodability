@@ -3,7 +3,6 @@ Data files and codes related to the paper: "Confidence modulates the decodabilit
 ## The "Data" folder is organized as follows:  
  * /Behavior/subX_sesY.mat:  
   The behavioral data for the Y th session of subject X.  
-  
   Subjects 1-26 were included the behavior, imaging and decoding analyses.
   
   Subject 27 was excluded from the imaging and decoding analyses due to his/her large head motion.
